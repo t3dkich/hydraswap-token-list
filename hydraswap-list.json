@@ -26,8 +26,8 @@
     {
       "chainId": 43214913,
       "address": "0x9937d1804ea118a0c3846e6edd35c7b1df5df0c6",
-      "name": "Wrapped Hydra",
-      "symbol": "WHYDRA",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/hydra-logo.png"
     },
