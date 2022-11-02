@@ -9,23 +9,31 @@
   "tokens": [ 
     {
       "chainId": 43214913,
-      "address": "0x2356b029bb8b519f639fa57ef0d699907c499d9a",
-      "name": "Token 1",
-      "symbol": "T1",
+      "address": "0x3475a2a272F7C73c85E000AA7ecD82595367bef9",
+      "name": "Test ERC20",
+      "symbol": "TEST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
     },
     {
       "chainId": 43214913,
-      "address": "0x06655338dba5baf0da457bf359ce826954f21bcb",
-      "name": "Token 2",
-      "symbol": "T2",
+      "address": "0xB1d46eB9c285764334b4f85c15d6722b3b49d6CB",
+      "name": "Test ERC20",
+      "symbol": "TEST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
     },
     {
       "chainId": 43214913,
-      "address": "0x9937d1804ea118a0c3846e6edd35c7b1df5df0c6",
+      "address": "0xC2E2e48913b2Beb89Df57cd3B4Ddf4B59aE1DfF2",
+      "name": "Test ERC20",
+      "symbol": "TEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
+    },
+    {
+      "chainId": 43214913,
+      "address": "0x45F1836b76731AAc50E8e6fAbcA35872d9fbDF73",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
