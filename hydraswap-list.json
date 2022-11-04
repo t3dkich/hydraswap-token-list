@@ -30,19 +30,11 @@
       "symbol": "TEST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
-    },
-    {
-      "chainId": 43214913,
-      "address": "0x45F1836b76731AAc50E8e6fAbcA35872d9fbDF73",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/hydra-logo.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
