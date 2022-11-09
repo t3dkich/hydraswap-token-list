@@ -1,6 +1,6 @@
 {
   "name": "Maistestsubnet",
-  "logoURI": "",
+  "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraswap-token-list/main/icons/token_icon.jpg",
   "keywords": [
     "maistestsubnet",
     "maiswap"
@@ -33,7 +33,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 2,
     "patch": 0
   }
