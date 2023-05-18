@@ -31,6 +31,22 @@
       "symbol": "HE",
       "decimals": 8,
       "logoURI": ""
+    },
+    {
+      "chainId": 2,
+      "address": "1764350109c9a436f3131fecea2d22cf53fbfbb3",
+      "name": "TokenB_Testnet",
+      "symbol": "TB_T",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 2,
+      "address": "c30ffb43774dda21e6f00f9202e5b78e2613f610",
+      "name": "TokenA_Testnet",
+      "symbol": "TA_T",
+      "decimals": 8,
+      "logoURI": ""
     }
   ],
   "version": {
